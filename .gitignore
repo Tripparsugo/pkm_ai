@@ -1,0 +1,8 @@
+mod/
+mod_p/
+tmp/
+models/
+virtualenv
+.idea
+tmp
+data
